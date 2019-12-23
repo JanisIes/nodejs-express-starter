@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.svn
+.git
+node_modules
+.vscode
+!logs/.gitkeep
+logs/
+package-lock.json
+.env
+data/*
+coverage/
+.nyc_output/
